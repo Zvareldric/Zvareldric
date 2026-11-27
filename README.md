@@ -1,16 +1,75 @@
-## Hi there 👋
+<h1 align="center">Jiwoo</h1>
 
-<!--
-**Zvareldric/Zvareldric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Web & Mobile Developer</b> · Computer Science Student · Indonesia
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  I build focused, privacy-respecting apps that people actually use,<br/>
+  from on-device document tools to data-driven dashboards and Flutter apps.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://watermark-dokumen.vercel.app"><img src="https://img.shields.io/badge/Live_project-watermark--dokumen-0F172A?style=flat-square&logo=vercel&logoColor=white" alt="Live project" /></a>
+  <a href="https://www.linkedin.com/in/mrifqiaa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mohammadrifqihidayat01@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<br/>
+
+## About
+
+- Building **web, mobile, and data** projects with React, Flutter, and Python.
+- Care about **privacy by default**: files stay on the user's device whenever possible.
+- Care about **accessibility**: AA contrast and scalable text are part of the definition of done.
+- Currently exploring **PWAs, serverless functions, and machine learning** for real-world use cases.
+
+<br/>
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,dart,html,css&theme=dark" alt="Languages" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,flutter,flask,sklearn&theme=dark" alt="Frameworks" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,vercel,netlify,git,github,vscode&theme=dark" alt="Tools" />
+</p>
+
+<sub>Also: Capacitor, Streamlit, pandas, Playwright, pdf.js, Netlify Functions</sub>
+
+<br/><br/>
+
+## Featured Projects
+
+### Privacy & Utility Tools
+
+| Project | What it does | Stack | Links |
+|:--|:--|:--|:--|
+| **Watermark Dokumen** | Adds watermarks to ID cards, certificates, and payslips before they are shared. Everything runs on-device, with NIK masking, multi-page PDF, and metadata removal. | React · TypeScript · Capacitor | [Live](https://watermark-dokumen.vercel.app) |
+| **Linkdrop** | Analyse and download public media from YouTube, Instagram, TikTok, X and more in its original format. Bilingual UI, subtitles, and multi-link ZIP export. | Python · Flask · yt-dlp · Docker | [Live](https://linkdrop-kappa.vercel.app) · [Repo](https://github.com/Zvareldric/Linkdrop) |
+
+### Web & Mobile Apps
+
+| Project | What it does | Stack | Links |
+|:--|:--|:--|:--|
+| **Hearts2spaceU** | All-in-one Flutter app for Hearts2Hearts fans: member profiles, schedule, releases, and awards. Clean Architecture with a custom, accessible design system. | Flutter · Dart | [Repo](https://github.com/Zvareldric/Hearts2spaceU) |
+| **MAMA Rank Tracker** | Archives MAMA 2026 Fans' Choice rankings every hour and visualises podium, rank movement, and leaderboard. Installable PWA with offline support. | TypeScript · Vite · Netlify Functions | [Live](https://bagelen.netlify.app) |
+| **Shapewise** | Interactive geometry learning platform with 3D shapes, adaptive quizzes, and a virtual lab. | React · JavaScript | [Repo](https://github.com/Zvareldric/lms-project) |
+| **SiRumah** | Responsive landing page for a sharia-based financial reporting app for orphanages. | HTML · Tailwind CSS | [Live](https://sirumah-landing-page.vercel.app) · [Repo](https://github.com/Zvareldric/Sirumah-Landing-Page) |
+
+### Data & Machine Learning
+
+| Project | What it does | Stack | Links |
+|:--|:--|:--|:--|
+| **Student Graduation Prediction** | Predicts student graduation and dropout with a KNN model, served through an interactive Streamlit dashboard. | Python · scikit-learn · Streamlit | [Repo](https://github.com/Zvareldric/projek-datamining) |
+
+<sub>More work: <a href="https://github.com/Zvareldric?tab=repositories">all repositories</a></sub>
+
+<br/>
+
+<p align="center">
+  <sub>Open to internships, freelance work, and collaboration on web, mobile, and data projects.</sub>
+</p>
