@@ -1,4 +1,4 @@
-<h1 align="center">Jiwoo</h1>
+<h1 align="center">Rifqi's</h1>
 
 <p align="center">
   <b>Web & Mobile Developer</b> · Computer Science Student · Indonesia
