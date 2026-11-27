@@ -42,6 +42,74 @@
 
 <br/><br/>
 
+## At a Glance
+
+<sub>Click a section to expand it.</sub>
+
+<details>
+<summary><b>Languages across featured projects</b></summary>
+<br/>
+
+```mermaid
+pie showData
+    title Primary language of featured projects
+    "TypeScript" : 2
+    "Python" : 2
+    "JavaScript" : 1
+    "Dart" : 1
+    "HTML" : 1
+```
+
+<sub>Counted per project (one primary language each), not by lines of code or commits.</sub>
+</details>
+
+<details>
+<summary><b>Tech stack map</b></summary>
+<br/>
+
+```mermaid
+mindmap
+  root((Rifqi))
+    Web
+      React
+      TypeScript
+      Vite
+      Tailwind CSS
+    Mobile
+      Flutter
+      Capacitor
+    Backend and Cloud
+      Flask
+      Netlify Functions
+      Vercel
+      Docker
+    Data and ML
+      Python
+      pandas
+      scikit-learn
+      Streamlit
+```
+</details>
+
+<details>
+<summary><b>Project timeline</b></summary>
+<br/>
+
+```mermaid
+timeline
+    title Featured projects by year
+    2025 : Shapewise
+         : SiRumah
+         : Student Graduation Prediction
+    2026 : Hearts2spaceU
+         : Linkdrop
+         : Watermark Dokumen
+         : MAMA Rank Tracker
+```
+</details>
+
+<br/>
+
 ## Featured Projects
 
 ### Privacy & Utility Tools
