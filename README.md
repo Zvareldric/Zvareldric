@@ -51,13 +51,12 @@
 <br/>
 
 ```mermaid
-pie showData
-    title Primary language of featured projects
-    "TypeScript" : 2
-    "Python" : 2
-    "JavaScript" : 1
-    "Dart" : 1
-    "HTML" : 1
+pie title Primary language of featured projects
+    "TypeScript (2)" : 2
+    "Python (2)" : 2
+    "JavaScript (1)" : 1
+    "Dart (1)" : 1
+    "HTML (1)" : 1
 ```
 
 <sub>Counted per project (one primary language each), not by lines of code or commits.</sub>
